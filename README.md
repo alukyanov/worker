@@ -1,3 +1,5 @@
+download zipped doc from url, unpack and convert to UTF-8
+
 to build
 docker build -t worker .
 
